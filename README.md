@@ -29,18 +29,24 @@ Weiter soll die App auch von Kunden genützt werden können, diese erhalten eige
 Pflichtenheft allgemein:
 
 • Benutzerverwaltung
+o Identifizierung Kunde/Verkäufer
+• Serverunterstützung 
+o Ftp
+o Datenbank für User Management
+• Dynamischer Aufbau der App Oberfläche
 
-    o Identifizierung Kunde/Verkäufer
-• Serverunterstützung o Ftp
-o Datenbank für User Management • Dynamischer Aufbau der App Oberfläche
+
 o User vs. Verkäufer Pflichtenheft allgemein optional:
+
 • Statt Server iCloud Drive Unterstützung Pflichtenheft Verkäufer:
 • Bereitstellung von Daten (Upload über iOS)
 • Ansicht der Dokumente (Fotos, Verträge, Leistungsbeschreibungen,..)
 • Management von Kunden
+
 o Anlegen und Dokumente zuweisen
     
 Pflichtenheft Verkäufer optional:
+
 • Chat mit Kunden
 • Terminverwaltung (direkt mit Kunde) Pflichtenheft Kunde:
 • Einsicht auf freigegeben Dokumente Pflichtenheft Kunde optional:
