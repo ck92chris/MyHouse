@@ -23,6 +23,7 @@ Weiter soll die App auch von Kunden genützt werden können, diese erhalten eige
 2 Bereiche (aber in einer App, aufgerufen je nach Login):
 
 -Verkäufer (Hauptfunktion)
+
 -Kunde
 
 
