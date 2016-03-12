@@ -39,17 +39,34 @@ o Datenbank für User Management
 
 o User vs. Verkäufer Pflichtenheft allgemein optional:
 
-• Statt Server iCloud Drive Unterstützung Pflichtenheft Verkäufer:
+• Statt Server iCloud Drive Unterstützung 
+
+Pflichtenheft Verkäufer:
+
+
 • Bereitstellung von Daten (Upload über iOS)
+
+
 • Ansicht der Dokumente (Fotos, Verträge, Leistungsbeschreibungen,..)
+
+
 • Management von Kunden
+
 
 o Anlegen und Dokumente zuweisen
     
 Pflichtenheft Verkäufer optional:
 
 • Chat mit Kunden
-• Terminverwaltung (direkt mit Kunde) Pflichtenheft Kunde:
-• Einsicht auf freigegeben Dokumente Pflichtenheft Kunde optional:
+
+• Terminverwaltung (direkt mit Kunde) 
+
+Pflichtenheft Kunde:
+
+• Einsicht auf freigegeben Dokumente 
+
+Pflichtenheft Kunde optional:
+
 • Chat mit Verkäufer
+
 • Terminverwaltung (direkt mit Verkäufer)
